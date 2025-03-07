@@ -1,7 +1,7 @@
 # 📚✨ AudiPDF ✨📚
 
 Welcome to the **PDF-to-Audiobook Converter**! 🎉  
-This project turns your boring PDFs into exciting audiobooks using **AWS Polly**, Amazon's state-of-the-art text-to-speech service. Whether commuting, working out, or just too lazy to read, this tool has got you covered! 🚀
+This project turns your boring PDFs into exciting audiobooks using **AWS Polly**, Amazon's state-of-the-art text-to-speech service. Whether commuting, working out, or just too lazy to read, this tool covers you! 🚀
 
 ---
 
